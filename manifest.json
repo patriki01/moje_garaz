@@ -3,7 +3,7 @@
     "short_name": "garage",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#ffffff",
     "theme_color": "#0175C2",
     "description": "App for car management",
     "orientation": "portrait-primary",
